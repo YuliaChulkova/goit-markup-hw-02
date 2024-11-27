@@ -28,14 +28,15 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.header-link:hover,
-.header-link:focus {
+.active-link:hover,
+.active-link:focus {
   color: #404bbf;
 }
 .address {
   font-style: normal;
 }
 .address-link {
+  color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
